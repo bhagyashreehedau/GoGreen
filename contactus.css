@@ -95,9 +95,10 @@ form:hover{
     box-shadow: 3px 3px 20px rgb(42, 42, 42);
 }
 .formdetails{
-    color: white;
-    background-color: rgb(0, 0, 0);
+    color: black;
+    background-color: rgb(193, 237, 201);
     border: 1px double black;
+    font-weight: bold;
 }
 .formdetails button{
     background-color: rgb(5, 5, 5);
